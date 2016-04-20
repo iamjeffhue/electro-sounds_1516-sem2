@@ -10,4 +10,4 @@ Assignment C is a study on an existing project of a visual artist that used proc
 
 Assignment D is a 90 second video created with processing, accompanied with original music.
 
-A link to the documentation of my learning process can be found here: https://www.tumblr.com/blog/massivecherryblossomtyrant
+A link to the documentation of my learning process can be found here: http://massivecherryblossomtyrant.tumblr.com/
